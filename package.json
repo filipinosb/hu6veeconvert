@@ -1,0 +1,29 @@
+{
+  "name": "hu6veeconvert",
+  "version": "1.0.0",
+  "description": "hu6veeconvert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipinosb/hu6veeconvert.git"
+  },
+  "keywords": [
+    "hu6veeconvert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "filipinosb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/filipinosb/hu6veeconvert/issues"
+  },
+  "homepage": "https://github.com/filipinosb/hu6veeconvert#readme",
+  "dependencies": {
+    "web3": "^1.5.2"
+  }
+}
